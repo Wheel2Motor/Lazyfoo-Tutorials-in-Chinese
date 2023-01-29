@@ -3,6 +3,7 @@
 ![preview](https://lazyfoo.net/tutorials/SDL/02_getting_an_image_on_the_screen/preview.png)
 
 &emsp;&emsp;既然您已经成功打开了一个窗口，接下来让我们往上面放一张图。
+
 &emsp;&emsp;注意：从现在开始教程将只涵盖代码的关键部分。如果想要获得完成的程序，您将不得不下载完整的源代码。
 
 ```cpp
