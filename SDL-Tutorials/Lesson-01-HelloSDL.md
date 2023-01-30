@@ -1,8 +1,10 @@
 # Hello SDL
 
-![preview](https://lazyfoo.net/tutorials/SDL/01_hello_SDL/preview.png)
+<p align="center">
+<img src="https://lazyfoo.net/tutorials/SDL/01_hello_SDL/preview.png">
+</p>
 
-看上去你已经学了一些C++基础，但是你肯定厌恶了重复编写简短的命令行程序了对吧。为了能够使用图像、声音、键盘、游戏手柄等功能，你需要一些能将硬件功能转为C++能与之交互的API（Application Programmer‘s Interface）。
+看上去你学了一些C++基础，但是你肯定厌恶了重复编写简短的命令行程序了对吧。为了能够使用图像、声音、键盘、游戏手柄等功能，你需要一些能将硬件功能转为C++能与之交互的API（Application Programmer‘s Interface）。
 
 这就是SDL所做的事。它抽象出了Window、Linux、Mac、Android、iOS等平台的硬件功能，将其包装成统一的操作接口，方便你通过编写SDL代码并将其轻松编译到它支持的任何平台。为了使用SDL，需要首先安装一下。
 

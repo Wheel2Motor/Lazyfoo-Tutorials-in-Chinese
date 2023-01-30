@@ -1,6 +1,8 @@
 # 在屏幕上显示一张图
 
-![preview](https://lazyfoo.net/tutorials/SDL/02_getting_an_image_on_the_screen/preview.png)
+<p align="center">
+    <img src="https://lazyfoo.net/tutorials/SDL/02_getting_an_image_on_the_screen/preview.png">
+</p>
 
 既然你已经成功打开了一个窗口，接下来让我们往上面放一张图。
 
